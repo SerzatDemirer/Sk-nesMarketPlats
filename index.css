@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+ul {
+    list-style: none;
+    cursor: pointer;
+
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+
+}
